@@ -1,1 +1,1 @@
-# TestTypescript
+# Test Typescript project trayed from phone
